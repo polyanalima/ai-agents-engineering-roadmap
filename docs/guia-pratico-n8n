@@ -1,0 +1,42 @@
+# Guia Prático: Criando um Agente de IA no n8n
+
+## Objetivo
+Demonstrar como estruturar um fluxo básico de agente de IA utilizando n8n.
+
+---
+
+## Estrutura do fluxo
+
+1. Chat Trigger (entrada do usuário)
+2. Nó do LLM (OpenAI GPT-4o-mini)
+3. Memória (Window Buffer Memory)
+4. Tools (APIs externas)
+5. Resposta final
+
+---
+
+## Passo a passo
+
+### 1. Criar o Chat Trigger
+- Recebe mensagens do usuário em tempo real
+
+### 2. Conectar o modelo de linguagem
+- Usar OpenAI API
+- Definir temperatura e comportamento
+
+### 3. Adicionar memória
+- Permite contexto de conversa
+
+### 4. Integrar ferramentas
+- Gmail / Google Sheets / APIs externas
+
+### 5. Definir System Prompt
+- Regras de comportamento do agente
+
+---
+
+## Resultado final
+Um agente capaz de:
+- Responder perguntas
+- Usar contexto
+- Executar ações via ferramentas
