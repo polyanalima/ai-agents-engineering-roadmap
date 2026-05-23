@@ -8,9 +8,9 @@ Demonstrar como estruturar um fluxo básico de agente de IA utilizando n8n.
 ## Estrutura do fluxo
 
 1. Chat Trigger (entrada do usuário)
-2. Nó do LLM (OpenAI GPT-4o-mini)
+2. Node do LLM (OpenAI GPT-4o-mini)
 3. Memória (Window Buffer Memory)
-4. Tools (APIs externas)
+4. Tools (Integrações com APIs externas como Gmail, Google Sheets, etc.)
 5. Resposta final
 
 ---
@@ -39,4 +39,4 @@ Demonstrar como estruturar um fluxo básico de agente de IA utilizando n8n.
 Um agente capaz de:
 - Responder perguntas
 - Usar contexto
-- Executar ações via ferramentas
+- Executar ações via ferramentas externas (APIs e integrações)
