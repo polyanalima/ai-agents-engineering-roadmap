@@ -70,8 +70,37 @@ O desenvolvimento deste projeto foi guiado por perguntas e objetivos de investig
 
 O NotebookLM foi utilizado como ferramenta de apoio para consolidação do conhecimento e organização das fontes utilizadas no projeto.
 
-🔗 Link do NotebookLM:
-https://notebooklm.google.com/notebook/85d1e6bb-a142-4fbb-92b5-f69453a819a5?authuser=2
+🔗 Link do NotebookLM: [NotebookLM](https://notebooklm.google.com/notebook/85d1e6bb-a142-4fbb-92b5-f69453a819a5?authuser=2)
+
+---
+
+## 📚 Curadoria de Fontes
+
+Este projeto utilizou inicialmente **11 fontes** e posteriormente foi expandido para **34 fontes** no NotebookLM.  
+Abaixo estão listadas algumas das principais referências abertas utilizadas, que fundamentaram os conteúdos gerados (vídeos, podcast e roadmap técnico):
+
+1. [Build & Sell n8n AI Agents (8+ Hour Course, No Code)](https://www.youtube.com/watch?v=Ey18PDiaAYI)  
+   🎥 Curso central que introduz a filosofia *crawl, walk, run*, mostrando a importância de dominar workflows determinísticos antes de avançar para agentes autônomos.
+
+2. [Roadmap Completo: Como se Tornar um Engenheiro de Agentes de IA (2026)](https://www.youtube.com/watch?v=nsAk6MthG9I)  
+   📊 Estrutura técnica dos módulos de conhecimento, cobrindo fundamentos de LLMs até frameworks como LangChain e LangGraph.
+
+3. [Como Planejar Seu Agente IA em 6 Etapas (Guia Completo)](https://www.youtube.com/watch?v=9mB5XTpL_lc)  
+   🛠️ Metodologia de planejamento estratégico, desde visão e mapeamento de processos até arquitetura e melhoria contínua.
+
+4. [How to Build & Sell AI Agents: Ultimate Beginner’s Guide](https://www.youtube.com/watch?v=w0H1-b044KY)  
+   🧠 Base conceitual sobre a anatomia de um agente (cérebro, prompt, memória, conhecimento e ferramentas) e os “três ingredientes” fundamentais.
+
+5. [O perfil de dev que vai se destacar na era da IA em 2026](https://www.cnnbrasil.com.br/economia/negocios/ia-nao-esta-roubando-empregos-entenda-o-que-ocorre-no-mercado-de-trabalho/)  
+   👤 Perspectiva sobre a mudança de mentalidade do profissional de tecnologia, que deve evoluir de “codificador” para “construtor” com visão de produto.
+
+6. [The Realistic Guide to Mastering AI Agents in 2026](https://hackernoon.com/the-realistic-guide-to-mastering-ai-agents-in-2026)  
+   🌐 Guia realista sobre implementação de agentes em produção e desafios de escalabilidade.
+
+---
+
+📌 **Observação:**  
+A lista completa de fontes (11 → 34) está disponível no [NotebookLM](https://notebooklm.google.com/notebook/85d1e6bb-a142-4fbb-92b5-f69453a819a5).
 
 ---
 
